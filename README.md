@@ -8,15 +8,15 @@ The purpose of this analysis is to find out whether paid reviews result in five 
 
 * How many Vine reviews and non-Vine reviews were there?
 
-There are 607 Vine reviews and 50522 non Vine reviews. 
+   There are 607 Vine reviews and 50522 non Vine reviews. 
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-257 Vine reviews were 5 stars and 25220 non Vine reviews were 5 stars. 
+   257 Vine reviews were 5 stars and 25220 non Vine reviews were 5 stars. 
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-The percentage of Vine reviews that were 5 stars was 42.34%. The percentage of non Vine reviews that were 5 stars was 49.92%.
+   The percentage of Vine reviews that were 5 stars was 42.34%. The percentage of non Vine reviews that were 5 stars was 49.92%.
 
 ## Summary
 
